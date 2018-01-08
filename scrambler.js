@@ -1,12 +1,36 @@
 window.addEventListener('load', function () {
   var textDescriptors = [
     "Software Engineer",
-    "Maker of things",
-    "Doer of stuff",
     "Cool cat",
-    "Software Enginerd",
     "Programmer",
-    "Code Gypsy"
+    "Maker of things",
+    "Scrambler of Subtitles",
+    "Wow you're still here",
+    "You're amazing",
+    "#1 fan right here",
+    "You win points for the dedication",
+    "The scrambling never stops",
+    "It's scramble-icious",
+    "It's also vaguely annoying",
+    "But I love it becuase it's the 2000s again",
+    "Can't stop scrambling",
+    "Maybe you should just email me?",
+    "This is alot of attention",
+    "I'm flattered but...",
+    "Slightly concerned",
+    "Maybe you should just say hello",
+    "I'm a big fan of hellos",
+    "Maybe I can help you?",
+    "Maybe not",
+    "But hey, good chat",
+    "I'm resetting now",
+    "Seriously",
+    "Great to meet you",
+    "Mysterious internet person",
+    "Ok now I'm gone for reals",
+    "Maybe",
+    "Maybe Not",
+    "Have a lovely day"
   ];
 
   var scrambleLength = 500;
